@@ -12,7 +12,7 @@ export default function Navigation() {
   return (
     <Tab.Navigator initialRouteName="Pokedex">
       <Tab.Screen
-        name="Favorite"
+        name="Favorites"
         component={FavoriteNavigation}
         options={{
           tabBarLabel: "Favoritos",
@@ -23,7 +23,7 @@ export default function Navigation() {
       />
 
       <Tab.Screen
-        name="Pokedex"
+        name="PokedexList"
         component={PokedexNavigation}
         options={{
           tabBarLabel: "",
