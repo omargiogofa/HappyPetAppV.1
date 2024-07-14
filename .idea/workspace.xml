@@ -5,18 +5,715 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4425e7f8-c600-4942-8539-e229949e7949" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eas.json" beforeDir="false" afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/cli-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/cli-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/cli-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/cli-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/color-name/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/escape-string-regexp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/escape-string-regexp/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/escape-string-regexp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/escape-string-regexp/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/has-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/has-flag/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/has-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/has-flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/log-symbols/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/mimic-fn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/mimic-fn/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/mimic-fn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/mimic-fn/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/onetime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/onetime/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/onetime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/onetime/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/ora/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/restore-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/restore-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/restore-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/restore-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/supports-color/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/cli/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/config-plugins/build/android/BuildProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@expo/config-plugins/build/android/BuildProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/config-plugins/build/android/BuildProperties.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@expo/config-plugins/build/android/BuildProperties.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/config-plugins/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@expo/config-plugins/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/cli-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/cli-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/cli-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/cli-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/color-name/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/escape-string-regexp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/escape-string-regexp/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/escape-string-regexp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/escape-string-regexp/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/has-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/has-flag/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/has-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/has-flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/log-symbols/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/mimic-fn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/mimic-fn/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/mimic-fn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/mimic-fn/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/onetime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/onetime/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/onetime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/onetime/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/ora/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/restore-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/restore-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/restore-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/restore-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/supports-color/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/package-manager/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-cursor/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-cursor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cli-cursor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-cursor/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cli-cursor/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-cursor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cli-cursor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-cursor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cli-cursor/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-client/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-client/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-client/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-client/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-launcher/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-launcher/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-launcher/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-launcher/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-launcher/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-launcher/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-menu/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-menu/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-menu/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-menu/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-menu/assets/EXDevMenuApp.android.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-menu/assets/EXDevMenuApp.android.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-menu/assets/EXDevMenuApp.ios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-menu/assets/EXDevMenuApp.ios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-dev-menu/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-dev-menu/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/withFonts.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/withFonts.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/withFonts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/plugin/build/withFonts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/plugin/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/plugin/src/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-font/plugin/src/withFonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-font/plugin/src/withFonts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-modules-core/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-modules-core/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-modules-core/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-modules-core/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-modules-core/ios/AppDelegates/EXAppDelegateWrapper.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-modules-core/ios/AppDelegates/EXAppDelegateWrapper.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo-modules-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo-modules-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/bundledNativeModules.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/bundledNativeModules.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/node_modules/.bin/expo-internal" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/.bin/expo-internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/node_modules/.bin/expo-internal.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/.bin/expo-internal.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/node_modules/@expo/config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/@expo/config/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/log-symbols/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/log-symbols/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/log-symbols/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/log-symbols/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log-symbols/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/log-symbols/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ora/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ora/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ora/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ora/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ora/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ora/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ora/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ora/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ora/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ora/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/paper/src/main/java/com/facebook/react/viewmanagers/RNGestureHandlerButtonManagerDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/paper/src/main/java/com/facebook/react/viewmanagers/RNGestureHandlerButtonManagerDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/NativeViewGestureHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/NativeViewGestureHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerInteractionManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerInteractionManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/apple/RNGestureHandlerButtonComponentView.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/apple/RNGestureHandlerButtonComponentView.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/apple/RNGestureHandlerModule.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/apple/RNGestureHandlerModule.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/Wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/Wrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/attachHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/attachHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/dropHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/dropHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/needsToReattach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/needsToReattach.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/types.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/updateHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/updateHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useAnimatedGesture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useAnimatedGesture.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useDetectorUpdater.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useDetectorUpdater.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useViewRefHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/useViewRefHandler.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector/utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/reanimatedWrapper.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/reanimatedWrapper.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/FlingGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/FlingGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/FlingGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/FlingGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/LongPressGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/LongPressGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/LongPressGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/LongPressGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/NativeViewGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/NativeViewGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/NativeViewGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/NativeViewGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PanGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PanGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PanGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PanGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PinchGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PinchGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PinchGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/PinchGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/RotationGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/RotationGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/RotationGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/RotationGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/TapGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/TapGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/TapGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/TapGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/interfaces.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/interfaces.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/Vector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/Vector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/Vector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/tools/Vector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/commonjs/web/utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/components/GestureButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/components/GestureButtons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/components/GestureButtons.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/components/GestureButtons.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/createHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/createHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/createHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/createHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestureHandlerCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestureHandlerCommon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestureHandlerCommon.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestureHandlerCommon.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/Wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/Wrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/attachHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/attachHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/dropHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/dropHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/needsToReattach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/needsToReattach.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/types.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/updateHandlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/updateHandlers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useAnimatedGesture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useAnimatedGesture.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useDetectorUpdater.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useDetectorUpdater.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useViewRefHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/useViewRefHandler.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/GestureDetector/utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureComposition.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureComposition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureComposition.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureComposition.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureStateManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureStateManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureStateManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/gestureStateManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/reanimatedWrapper.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/handlers/gestures/reanimatedWrapper.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/RotationGestureDetector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/RotationGestureDetector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/RotationGestureDetector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/RotationGestureDetector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/ScaleGestureDetector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/ScaleGestureDetector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/ScaleGestureDetector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/detectors/ScaleGestureDetector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/FlingGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/FlingGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/FlingGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/FlingGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/GestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/GestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/GestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/GestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/LongPressGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/LongPressGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/LongPressGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/LongPressGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/ManualGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/ManualGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/ManualGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/ManualGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/NativeViewGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/NativeViewGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/NativeViewGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/NativeViewGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PanGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PanGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PanGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PanGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PinchGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PinchGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PinchGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/PinchGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/RotationGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/RotationGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/RotationGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/RotationGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/TapGestureHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/TapGestureHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/TapGestureHandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/handlers/TapGestureHandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/interfaces.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/interfaces.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/GestureHandlerOrchestrator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/GestureHandlerOrchestrator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/GestureHandlerOrchestrator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/GestureHandlerOrchestrator.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerEventManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerEventManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerEventManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerEventManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerTracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerTracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerTracker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/PointerTracker.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/TouchEventManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/TouchEventManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/TouchEventManager.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/TouchEventManager.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/Vector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/Vector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/Vector.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/tools/Vector.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/module/web/utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/components/GestureButtons.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/components/GestureButtons.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestureHandlerCommon.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestureHandlerCommon.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/Wrap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/attachHandlers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/dropHandlers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/needsToReattach.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/updateHandlers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/useAnimatedGesture.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/useDetectorUpdater.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/useViewRefHandler.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/reanimatedWrapper.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/reanimatedWrapper.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/handlers/GestureHandler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/handlers/GestureHandler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/interfaces.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/interfaces.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/tools/PointerTracker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/tools/PointerTracker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/lib/typescript/web/utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/components/GestureButtons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/components/GestureButtons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/createHandler.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/createHandler.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestureHandlerCommon.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestureHandlerCommon.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/Wrap.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/attachHandlers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/dropHandlers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/needsToReattach.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/updateHandlers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/useAnimatedGesture.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/useDetectorUpdater.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/useViewRefHandler.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/gestureComposition.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/gestureComposition.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/gestureStateManager.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/gestureStateManager.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/reanimatedWrapper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/handlers/gestures/reanimatedWrapper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/detectors/RotationGestureDetector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/detectors/RotationGestureDetector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/detectors/ScaleGestureDetector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/detectors/ScaleGestureDetector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/FlingGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/FlingGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/GestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/GestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/LongPressGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/LongPressGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/ManualGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/ManualGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/NativeViewGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/NativeViewGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/PanGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/PanGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/PinchGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/PinchGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/RotationGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/RotationGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/TapGestureHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/handlers/TapGestureHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/GestureHandlerOrchestrator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/GestureHandlerOrchestrator.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/PointerEventManager.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/PointerEventManager.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/PointerTracker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/PointerTracker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/TouchEventManager.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/TouchEventManager.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/Vector.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/tools/Vector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/src/web/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/RNScreens.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/RNScreens.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/cpp/jni-adapter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/cpp/jni-adapter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomSearchView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomSearchView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainerViewManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainerViewManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreensModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreensModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/HeaderHeightChangeEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/HeaderHeightChangeEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/SearchBarBlurEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/SearchBarBlurEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/SearchBarFocusEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/events/SearchBarFocusEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenContainerManagerDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenContainerManagerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenManagerDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenManagerDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenManagerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenManagerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenStackHeaderConfigManagerDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenStackHeaderConfigManagerDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenStackHeaderConfigManagerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSScreenStackHeaderConfigManagerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSSearchBarManagerDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/paper/java/com/facebook/react/viewmanagers/RNSSearchBarManagerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSModalScreenComponentDescriptor.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSModalScreenComponentDescriptor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenComponentDescriptor.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenComponentDescriptor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/cpp/RNScreensTurboModule.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/cpp/RNScreensTurboModule.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/cpp/RNScreensTurboModule.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/cpp/RNScreensTurboModule.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSConvert.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSConvert.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSConvert.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSConvert.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSModule.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSModule.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreen.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreen.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenContainer.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenContainer.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStack.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStack.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSSearchBar.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSSearchBar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSSearchBar.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/ios/RNSSearchBar.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/utils/RCTSurfaceTouchHandler+RNSUtility.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/utils/RCTSurfaceTouchHandler+RNSUtility.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/utils/RCTTouchHandler+RNSUtility.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/ios/utils/RCTTouchHandler+RNSUtility.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/Screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/Screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/Screen.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/Screen.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/SearchBar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/components/SearchBar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ModalScreenNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ModalScreenNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ScreenNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ScreenNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ScreenStackHeaderConfigNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/fabric/ScreenStackHeaderConfigNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/Screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/Screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/Screen.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/Screen.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/SearchBar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/components/SearchBar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ModalScreenNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ModalScreenNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ScreenNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ScreenNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ScreenStackHeaderConfigNativeComponent.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/fabric/ScreenStackHeaderConfigNativeComponent.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/TransitionProgressContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/TransitionProgressContext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/TransitionProgressContext.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/TransitionProgressContext.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/Screen.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/Screen.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/Screen.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/Screen.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/SearchBar.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/SearchBar.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/SearchBar.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/components/SearchBar.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ModalScreenNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ModalScreenNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ModalScreenNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ModalScreenNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderConfigNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderConfigNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderConfigNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderConfigNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderSubviewNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderSubviewNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderSubviewNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackHeaderSubviewNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/ScreenStackNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/SearchBarNativeComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/SearchBarNativeComponent.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/SearchBarNativeComponent.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/fabric/SearchBarNativeComponent.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/gesture-handler/RNScreensTurboModule.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/gesture-handler/RNScreensTurboModule.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/gesture-handler/RNScreensTurboModule.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/gesture-handler/RNScreensTurboModule.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/SafeAreaProviderCompat.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/SafeAreaProviderCompat.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/SafeAreaProviderCompat.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/SafeAreaProviderCompat.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/getDefaultHeaderHeight.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/getDefaultHeaderHeight.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/getDefaultHeaderHeight.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/getDefaultHeaderHeight.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/useAnimatedHeaderHeight.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/useAnimatedHeaderHeight.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/useAnimatedHeaderHeight.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/utils/useAnimatedHeaderHeight.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/NativeStackView.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/NativeStackView.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/NativeStackView.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/native-stack/views/NativeStackView.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/reanimated/ReanimatedTransitionProgressContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/reanimated/ReanimatedTransitionProgressContext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/reanimated/ReanimatedTransitionProgressContext.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/reanimated/ReanimatedTransitionProgressContext.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/types.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/types.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/useTransitionProgress.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/lib/typescript/useTransitionProgress.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/native-stack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/native-stack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/components/Screen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/components/Screen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/components/SearchBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/components/SearchBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ModalScreenNativeComponent.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ModalScreenNativeComponent.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ScreenNativeComponent.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ScreenNativeComponent.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ScreenStackHeaderConfigNativeComponent.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/ScreenStackHeaderConfigNativeComponent.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/SearchBarNativeComponent.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/fabric/SearchBarNativeComponent.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/views/HeaderConfig.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/views/HeaderConfig.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/views/NativeStackView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/native-stack/views/NativeStackView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-screens/src/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-screens/src/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/errors-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/experimentalWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/async_iterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/buffer_list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/from-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/from.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/pipeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/restore-cursor/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/restore-cursor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/restore-cursor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/restore-cursor/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/restore-cursor/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/restore-cursor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/restore-cursor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/restore-cursor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/restore-cursor/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/async-return-type.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/basic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/conditional-except.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/conditional-keys.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/conditional-pick.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/except.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/fixed-length-array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/literal-union.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/merge-exclusive.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/merge.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/mutable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/opaque.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/package-json.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/partial-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/promisable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/promise-value.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/readonly-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/require-at-least-one.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/require-exactly-one.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/set-optional.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/set-required.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/stringified.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/tsconfig-json.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/union-to-intersection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tempy/node_modules/type-fest/source/value-of.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/async-return-type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/async-return-type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/asyncify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/basic.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/basic.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/camel-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/camel-cased-properties-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/camel-cased-properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-except.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-except.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-keys.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-keys.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-pick.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/conditional-pick.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/delimiter-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/delimiter-cased-properties-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/delimiter-cased-properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/entries.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/entry.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/exact.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/except.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/except.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/fixed-length-array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/fixed-length-array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/get.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/has-optional-keys.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/has-required-keys.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/includes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/internal.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/invariant-of.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/iterable-element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/join.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/jsonify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/kebab-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/kebab-cased-properties-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/kebab-cased-properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/last-array-element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/literal-to-primitive.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/literal-union.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/literal-union.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/merge-exclusive.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/merge-exclusive.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/merge.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/merge.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/multidimensional-array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/multidimensional-readonly-array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/mutable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/mutable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/numeric.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/observable-like.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/opaque.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/opaque.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/optional-keys-of.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/package-json.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/package-json.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/partial-deep.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/partial-deep.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/partial-on-undefined-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/pascal-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/pascal-cased-properties-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/pascal-cased-properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/primitive.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/promisable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/promisable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/promise-value.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/promise-value.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/readonly-deep.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/readonly-deep.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/readonly-tuple.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/remove-index-signature.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/replace.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/require-all-or-none.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/require-at-least-one.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/require-at-least-one.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/require-exactly-one.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/require-exactly-one.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/required-keys-of.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/screaming-snake-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/set-non-nullable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/set-optional.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/set-optional.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/set-required.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/set-required.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/set-return-type.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/simplify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/snake-case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/snake-cased-properties-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/snake-cased-properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/split.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/spread.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/string-key-of.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/stringified.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/stringified.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/trim.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/tsconfig-json.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/tsconfig-json.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/typed-array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/union-to-intersection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/union-to-intersection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/value-of.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-fest/source/value-of.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-fest/source/writable.d.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/pokemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/pokemon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navigation/AccountNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/AccountNavigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/Navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/Pokedex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Pokedex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/userDB.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/userDB.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +738,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;AnalyzeApkAction.lastApkPath&quot;: &quot;C:/Users/EQUIPO/Desktop/HappyPetApp&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -49,12 +747,13 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/EQUIPO/Desktop/HappyPetApp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
